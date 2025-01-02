@@ -182,7 +182,7 @@ button:hover{
     color: black;
     
 }
-@media (max-width:702px) {
+@media (max-width:480px) {
  .span{
      display: block;  
      
